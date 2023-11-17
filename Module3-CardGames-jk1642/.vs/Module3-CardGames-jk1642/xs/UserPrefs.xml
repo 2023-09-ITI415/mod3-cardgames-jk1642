@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{FDBCBD5E-5D90-696D-EE76-A3F2670E5D9F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/01-Prospector/__Scripts/Prospector.cs">
+    <Files>
+      <File FileName="Assets/01-Prospector/__Scripts/Prospector.cs" Line="211" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Module3-CardGames-jk1642" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="01-Prospector" expanded="True">
+                <Node name="__Scripts" expanded="True">
+                  <Node name="Prospector.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f58b466b-7aa4-404b-a48a-80a317556294" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jinsekim/Desktop/Unity/Module3-CardGames-jk1642/Assets/01-Prospector/__Scripts/Prospector.cs" relfile="Assets/01-Prospector/__Scripts/Prospector.cs" line="226" column="1" />
+      <Breakpoint file="/Users/jinsekim/Desktop/Unity/Module3-CardGames-jk1642/Assets/01-Prospector/__Scripts/Prospector.cs" relfile="Assets/01-Prospector/__Scripts/Prospector.cs" line="218" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
